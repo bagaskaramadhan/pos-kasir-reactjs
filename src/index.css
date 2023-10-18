@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card-style {
+  margin-bottom: 30px;
+  margin-left: 20x;
+  margin-right: 20px;
+}
+
+.footer-info {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 20%;
+  width: 100%;
+  background-color: #000;
+  color: white;  
+}
+
+.footer-style {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #555555;
+  color: white;
+}
+
+.text-footer {
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.navbar-style {
+  background-color: #ff5400;
+}
+
+.navbar-text{
+  color: #ffff;
+}
