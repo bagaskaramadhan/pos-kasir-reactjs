@@ -8,23 +8,23 @@ function FooterComponent() {
             <div>
                 <footer className="footer-info">
                     <div>
-                        <Row className='d-flex justify-content-reverse text-footer'>
-                            <Col xs lg='3'>
+                        <Row className='text-footer'>
+                            <Col>
                                 <h5>Consumen Care</h5>
                                 <h6><strong>Layanan Pengaduan Konsumen</strong><br />
                                     Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga Kementerian Perdagangan RI (Whatsapp) 0853-1111-1010</h6>
                             </Col>
-                            <Col xs lg='3'>
+                            <Col>
                                 <h5>Hiring</h5>
                                 <h6><Nav.Link href="#careers">Careers</Nav.Link></h6>
                             </Col>
-                            <Col xs lg='3'>
+                            <Col>
                                 <h5>Layanan</h5>
                                 <h6>Layanan yang tersedia belum tersedia.</h6>
                             </Col>
-                            <Col xs lg='3'>
+                            <Col>
                                 <h5>Informasi</h5>
-                                <h6>Dibuat secara sadar dan sengaja untuk memudahkan konsumen. Jika ada kesalhan mohon hubungi kami agar dapat kami tindak lanjuti.</h6>
+                                <h6>Dibuat secara sadar dan sengaja untuk memudahkan konsumen. Jika ada kesalahan mohon hubungi kami agar dapat kami tindak lanjuti.</h6>
                             </Col>
                         </Row>
                     </div>
